@@ -20,7 +20,7 @@ from common import ARCHIVE_BASE, RAW, RAW_ENTRIES, write_bytes_atomic
 
 CRAWL_DELAY = 5.0
 RETRY_STATUS = {429, 500, 502, 503, 504}
-USER_AGENT = "sep-datamap/0.1 (personal research project; polite crawler)"
+USER_AGENT = "sep-map/0.1 (personal research project; polite crawler)"
 FAILURES_FILE = RAW / "fetch_failures.json"
 
 session = requests.Session()

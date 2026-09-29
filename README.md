@@ -4,7 +4,7 @@ An interactive map of the 1,866 entries in the [Stanford Encyclopedia of
 Philosophy](https://plato.stanford.edu/) (Fall 2026 edition), placed by the meaning
 of each entry's lead section and named at four zoom levels.
 
-**Live map:** https://stevenfazzio.com/sep-datamap/
+**Live map:** https://stevenfazzio.com/sep-map/
 
 This is an unofficial project and is not affiliated with the SEP. The published
 page carries only entry metadata (titles, authors, dates) and model-written text

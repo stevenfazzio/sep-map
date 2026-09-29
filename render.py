@@ -26,7 +26,7 @@ from enrich import ENRICHMENT_PARQUET
 DOCS = ROOT / "docs"
 OUTPUT = DOCS / "index.html"
 SOCIAL_PREVIEW = DOCS / "social-preview.png"
-PUBLIC_URL = "https://stevenfazzio.com/sep-datamap/"
+PUBLIC_URL = "https://stevenfazzio.com/sep-map/"
 TITLE = "Stanford Encyclopedia of Philosophy Map"
 
 # Type: a serif title reads as a reference work to this map's humanities audience,
